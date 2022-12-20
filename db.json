@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "firstname": "",
+      "lastname": "",
+      "birthdate": "",
+      "gender": "",
+      "education": "10th pass",
+      "company": "",
+      "jobExperience": "",
+      "salary": "",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
